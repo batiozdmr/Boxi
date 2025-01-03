@@ -14,11 +14,11 @@ public class Enemy1Manager : MonoBehaviour
 
     void Start()
     {
+        
     }
 
     void FixedUpdate()
     {
-
         MoveTowardsTarget();
     }
 
